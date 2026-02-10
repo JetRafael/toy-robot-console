@@ -8,14 +8,15 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 Follow these steps:
 
-# Step 3: Install the necessary dependencies.
+# Step 1: Install the necessary dependencies.
 
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 2: Start the development server with auto-reloading and an instant preview.
 
 npm run dev
 
 # Run Tests: To run the tests, use the command below.
 
 npm run test
+
